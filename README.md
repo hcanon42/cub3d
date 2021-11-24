@@ -26,7 +26,7 @@ I also implemented sprites, textures, a HUD, Hitpoints, an end to the maze and a
 
 ## Installation
 
-Just pull the project !\
+Just pull the project !
 
 ## Usage
 
@@ -45,7 +45,7 @@ Particular to this project:
 
 ## Utility
 
-A bit long to do at first but very useful at the start of each project.
+Great project overall, with some playful goal which is always rewarding while working !
 
 ## Contributing
 
